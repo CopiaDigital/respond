@@ -1,0 +1,21 @@
+{
+  "name": "respond",
+  "version": "0.1.0",
+  "description": "Media query mixin for sass",
+  "main": "_tools.respond.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CopiaDigital/respond.git"
+  },
+  "keywords": [
+    "sass",
+    "respond",
+    "media"
+  ],
+  "author": "Mitch Jackson <me@mitchelljackson.co.uk>",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/CopiaDigital/respond/issues"
+  },
+  "homepage": "https://github.com/CopiaDigital/respond"
+}
